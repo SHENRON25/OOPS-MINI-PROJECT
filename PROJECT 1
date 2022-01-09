@@ -2670,7 +2670,7 @@ outtextxy(350,250,"AND");
 
 setcolor(14);
 
-outtextxy(480,250,"STAY SAFE");
+outtextxy(480,250,"STAY HAPPY");
 
 
 
