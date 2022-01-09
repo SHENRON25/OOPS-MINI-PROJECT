@@ -1264,7 +1264,7 @@ settextstyle(7,0,4);
 
 setcolor(10);
 
-outtextxy(200,350,"3rd");
+outtextxy(200,350,"Third");
 
 
 
@@ -1276,7 +1276,7 @@ settextstyle(7,0,4);
 
 setcolor(11);
 
-outtextxy(320,350,"wave");
+outtextxy(300,350,"wave");
 
 
 
@@ -1288,7 +1288,7 @@ settextstyle(7,0,4);
 
 setcolor(12);
 
-outtextxy(400,350,"STRIKES");
+outtextxy(390,350,"strikes");
 
 
 
@@ -1432,7 +1432,7 @@ settextstyle(7,0,4);
 
 setcolor(10);
 
-outtextxy(200,350,"3rd");
+outtextxy(200,350,"Third");
 
 
 
@@ -1444,7 +1444,7 @@ settextstyle(7,0,4);
 
 setcolor(11);
 
-outtextxy(320,350,"wave");
+outtextxy(300,350,"wave");
 
 
 
@@ -1456,7 +1456,7 @@ settextstyle(7,0,4);
 
 setcolor(12);
 
-outtextxy(400,350,"STRIKES");
+outtextxy(390,350,"strikes");
 
 
 
@@ -2606,7 +2606,7 @@ settextstyle(10,0,2);
 
 setcolor(10);
 
-outtextxy(200,350,"MAINTAIN SOCIAL DISTANCING");
+outtextxy(200,350,"NEW YEAR,FRESH START.BEST OF LUCK!");
 
 
 
@@ -2662,7 +2662,7 @@ settextstyle(10,0,1);
 
 setcolor(11);
 
-outtextxy(200,250,"TAKECARE");
+outtextxy(200,250,"TAKE CARE");
 
 setcolor(13);
 
@@ -2670,7 +2670,7 @@ outtextxy(350,250,"AND");
 
 setcolor(14);
 
-outtextxy(480,250,"STAYSAFE");
+outtextxy(480,250,"STAY SAFE");
 
 
 
